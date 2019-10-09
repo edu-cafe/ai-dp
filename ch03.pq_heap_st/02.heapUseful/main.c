@@ -1,0 +1,50 @@
+#include <stdio.h>
+#include "UsefulHeap.h"
+
+int DataPriorityComp(char ch1, char ch2)
+{
+	return ch1-ch2;
+}
+
+int main(void)
+{
+	Heap heap;
+	HeapInit(&heap, DataPriorityComp);
+
+	HInsert(&heap, 'B');
+	HInsert(&heap, 'A');
+	HInsert(&heap, 'C');
+	printf("%c \n", HDelete(&heap));
+
+	HInsert(&heap, 'F');
+	HInsert(&heap, 'D');
+	HInsert(&heap, 'E');
+	printf("%c \n", HDelete(&heap));
+
+	while(!HIsEmpty(&heap))
+		printf("%c \n", HDelete(&heap));
+
+	return 0;
+}
+#if 0
+int main(void)
+{
+	Heap heap;
+	HeapInit(&heap, DataPriorityComp);
+
+	HInsert(&heap, 'A');
+	HInsert(&heap, 'B');
+	HInsert(&heap, 'C');
+	printf("%c \n", HDelete(&heap));
+
+	HInsert(&heap, 'A');
+	HInsert(&heap, 'B');
+	HInsert(&heap, 'C');
+	printf("%c \n", HDelete(&heap));
+
+	while(!HIsEmpty(&heap))
+		printf("%c \n", HDelete(&heap));
+
+	return 0;
+}
+#endif

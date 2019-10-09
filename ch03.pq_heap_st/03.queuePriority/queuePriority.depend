@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1320146652 source:c:\share\lab_al\queuepriority\priorityqueue.c
+	"PriorityQueue.h"
+	"UsefulHeap.h"
+
+1320146628 c:\share\lab_al\queuepriority\priorityqueue.h
+	"UsefulHeap.h"
+
+1465110466 c:\share\lab_al\queuepriority\usefulheap.h
+
+1465109906 source:c:\share\lab_al\queuepriority\usefulheap.c
+	"UsefulHeap.h"
+

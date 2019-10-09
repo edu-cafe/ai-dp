@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1465170742 source:c:\share\lab_al\graphkruskal\main.c
+	<stdio.h>
+	"GraphKruskal.h"
+
+1465170930 c:\share\lab_al\graphkruskal\graphkruskal.h
+	"DLinkedList.h"
+	"PriorityQueue.h"
+	"Edge.h"
+
+1317386376 c:\share\lab_al\graphkruskal\dlinkedlist.h
+
+1320146628 c:\share\lab_al\graphkruskal\priorityqueue.h
+	"UsefulHeap.h"
+
+1465119737 c:\share\lab_al\graphkruskal\usefulheap.h
+	"Edge.h"
+
+1465120102 c:\share\lab_al\graphkruskal\edge.h
+
+1320146652 source:c:\share\lab_al\graphkruskal\priorityqueue.c
+	"PriorityQueue.h"
+	"UsefulHeap.h"
+
+1464008284 source:c:\share\lab_al\graphkruskal\stackarray.c
+	<stdio.h>
+	<stdlib.h>
+	"stackArray.h"
+
+1318852564 c:\share\lab_al\graphkruskal\stackarray.h
+
+1465109906 source:c:\share\lab_al\graphkruskal\usefulheap.c
+	"UsefulHeap.h"
+
+1465170734 source:c:\share\lab_al\graphkruskal\graphkruskal.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"GraphKruskal.h"
+	"DLinkedList.h"
+	"stackArray.h"
+
+1463994180 source:c:\share\lab_al\graphkruskal\dlinkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	"DLinkedList.h"
+

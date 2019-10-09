@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1465205014 source:c:\share\lab_al\treebinarysearch\binarysearchtree.c
+	<stdio.h>
+	"BinaryTree.h"
+	"BinarySearchTree.h"
+
+1464333810 c:\share\lab_al\treebinarysearch\binarytree.h
+
+1465205008 c:\share\lab_al\treebinarysearch\binarysearchtree.h
+	"BinaryTree.h"
+
+1464333830 source:c:\share\lab_al\treebinarysearch\binarytree.c
+	<stdio.h>
+	<stdlib.h>
+	"BinaryTree.h"
+
+1465205045 source:c:\share\lab_al\treebinarysearch\main.c
+	<stdio.h>
+	<stdlib.h>
+	"BinarySearchTree.h"
+

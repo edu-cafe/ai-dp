@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1513259771 source:c:\share\lab_al\dp_carpbread\main.cpp
+	<iostream>
+	<vector>
+	<cstdio>
+	<cstring>
+	<cstdio>
+	<cstring>
+

@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1463994180 source:c:\share\lab_al\graphdfs\dlinkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	"DLinkedList.h"
+
+1317386376 c:\share\lab_al\graphdfs\dlinkedlist.h
+
+1464350593 source:c:\share\lab_al\graphdfs\graphdfs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"GraphDFS.h"
+	"stackArray.h"
+
+1464350606 c:\share\lab_al\graphdfs\graphdfs.h
+	"DLinkedList.h"
+
+1318852564 c:\share\lab_al\graphdfs\stackarray.h
+
+1464350614 source:c:\share\lab_al\graphdfs\main.c
+	<stdio.h>
+	"GraphDFS.h"
+
+1464008284 source:c:\share\lab_al\graphdfs\stackarray.c
+	<stdio.h>
+	<stdlib.h>
+	"stackArray.h"
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1513252100 source:c:\share\lab_al\dp_toone\main.cpp
+	<iostream>
+	<stdio.h>
+
