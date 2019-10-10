@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1318837846 source:c:\share\lab_al\stackarray\arraybasestack.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayBaseStack.h"
+
+1318852564 c:\share\lab_al\stackarray\arraybasestack.h
+
+1464006809 source:c:\share\lab_al\stackarray\main.c
+	<stdio.h>
+	"ArrayBaseStack.h"
+
