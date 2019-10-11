@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1463994180 source:c:\share\lab_al\graph\dlinkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	"DLinkedList.h"
+
+1317386376 c:\share\lab_al\graph\dlinkedlist.h
+
+1464344960 source:c:\share\lab_al\graph\main.c
+	<stdio.h>
+	"Graph.h"
+
+1464344383 c:\share\lab_al\graph\graph.h
+	"DLinkedList.h"
+
